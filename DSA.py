@@ -30,7 +30,7 @@ for i in range(1, 4):
 print(stack.pop())'''
 
 #큐 FIFO
-'''from queue import Queue
+'''from queue import Que
 
 queue = Queue()
 
